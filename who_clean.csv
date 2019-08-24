@@ -1,0 +1,184 @@
+,Country,Mortality,Land Area,Region,Year,Gender
+2,Afghanistan,3010.0,"652,230",Eastern Mediterranean,2012-2016,Both sexes
+5,Albania,4005.0,"27,400",Europe,2012-2016,Both sexes
+8,Algeria,1010.0,"2,381,740",Africa,2012-2016,Both sexes
+11,Angola,1020.0,"1,246,700",Africa,2012-2016,Both sexes
+14,Antigua and Barbuda,2010.0,440,Americas,2012-2016,Both sexes
+17,Argentina,2020.0,"2,736,690",Americas,2012-2016,Both sexes
+20,Armenia,4007.0,"28,480",Europe,2012-2016,Both sexes
+23,Australia,5020.0,"7,682,300",Western Pacific,2012-2016,Both sexes
+26,Austria,4010.0,"83,871",Europe,2012-2016,Both sexes
+29,Azerbaijan,4012.0,"82,450",Europe,2012-2016,Both sexes
+32,Bahamas,2030.0,"10,010",Americas,2012-2016,Both sexes
+35,Bahrain,3020.0,760,Eastern Mediterranean,2012-2016,Both sexes
+38,Bangladesh,3025.0,"130,170",South-East Asia,2012-2016,Both sexes
+41,Barbados,2040.0,430,Americas,2012-2016,Both sexes
+44,Belarus,4018.0,"202,900",Europe,2012-2016,Both sexes
+47,Belgium,4020.0,"30,280",Europe,2012-2016,Both sexes
+50,Belize,2045.0,"22,810",Americas,2012-2016,Both sexes
+53,Benin,1025.0,"112,760",Africa,2012-2016,Both sexes
+56,Bhutan,3027.0,"38,394",South-East Asia,2012-2016,Both sexes
+59,Bolivia (Plurinational State of),2060.0,"1,083,300",Americas,2012-2016,Both sexes
+62,Bosnia and Herzegovina,4025.0,"51,000",Europe,2012-2016,Both sexes
+65,Botswana,1030.0,"566,730",Africa,2012-2016,Both sexes
+68,Brazil,2070.0,"8,459,420",Americas,2012-2016,Both sexes
+71,Brunei Darussalam,3030.0,5270,Western Pacific,2012-2016,Both sexes
+74,Bulgaria,4030.0,"108,610",Europe,2012-2016,Both sexes
+77,Burkina Faso,1035.0,"273,600",Africa,2012-2016,Both sexes
+80,Burundi,1040.0,"25,680",Africa,2012-2016,Both sexes
+83,Cambodia,3050.0,"176,520",Western Pacific,2012-2016,Both sexes
+86,Cameroon,1045.0,"472,710",Africa,2012-2016,Both sexes
+89,Canada,2090.0,"9,093,510",Americas,2012-2016,Both sexes
+92,Cabo Verde,1060.0,"4,030",Africa,2012-2016,Both sexes
+95,Central African Republic,1070.0,"622,980",Africa,2012-2016,Both sexes
+98,Chad,1080.0,"1,259,200",Africa,2012-2016,Both sexes
+101,Chile,2120.0,"743,532",Americas,2012-2016,Both sexes
+104,China,3068.0,"9,327,489",Western Pacific,2012-2016,Both sexes
+107,Colombia,2130.0,"1,109,500",Americas,2012-2016,Both sexes
+110,Comoros,1090.0,"1,861",Africa,2012-2016,Both sexes
+113,Congo,1100.0,"341,500",Africa,2012-2016,Both sexes
+116,Costa Rica,2140.0,"51,060",Americas,2012-2016,Both sexes
+119,Croatia,4038.0,"55,960",Europe,2012-2016,Both sexes
+122,Cuba,2150.0,"106,440",Americas,2012-2016,Both sexes
+125,Cyprus,3080.0,"9,240",Europe,2012-2016,Both sexes
+128,Czechia,4045.0,"77,250",Europe,2012-2016,Both sexes
+131,Côte d'Ivoire,1115.0,318000,Africa,2012-2016,Both sexes
+134,Democratic People's Republic of Korea,3083.0,"120,410",South-East Asia,2012-2016,Both sexes
+137,Democratic Republic of the Congo,1555.0,"2,267,050",Africa,2012-2016,Both sexes
+140,Denmark,4050.0,"42,430",Europe,2012-2016,Both sexes
+143,Djibouti,1120.0,"23,180",Eastern Mediterranean,2012-2016,Both sexes
+146,Dominican Republic,2170.0,"48,320",Americas,2012-2016,Both sexes
+149,Ecuador,2180.0,"248,360",Americas,2012-2016,Both sexes
+152,Egypt,1125.0,"995,450",Eastern Mediterranean,2012-2016,Both sexes
+155,El Salvador,2190.0,"20,720",Americas,2012-2016,Both sexes
+158,Equatorial Guinea,1130.0,"28,050",Africa,2012-2016,Both sexes
+161,Eritrea,1135.0,"101,000",Africa,2012-2016,Both sexes
+164,Estonia,4055.0,"42,390",Europe,2012-2016,Both sexes
+167,Ethiopia,1140.0,"1,000,000",Africa,2012-2016,Both sexes
+170,Fiji,5070.0,"18,270",Western Pacific,2012-2016,Both sexes
+173,Finland,4070.0,"303,900",Europe,2012-2016,Both sexes
+176,France,4080.0,"547,660",Europe,2012-2016,Both sexes
+179,Gabon,1160.0,"257,670",Africa,2012-2016,Both sexes
+182,Gambia,1170.0,"10,120",Africa,2012-2016,Both sexes
+185,Georgia,4084.0,"69, 490",Europe,2012-2016,Both sexes
+188,Germany,4085.0,"348,630",Europe,2012-2016,Both sexes
+191,Ghana,1180.0,"227,540",Africa,2012-2016,Both sexes
+194,Greece,4140.0,"128,900",Europe,2012-2016,Both sexes
+197,Grenada,2230.0,340,Americas,2012-2016,Both sexes
+200,Guatemala,2250.0,"107,160",Americas,2012-2016,Both sexes
+203,Guinea,1190.0,"245,720",Africa,2012-2016,Both sexes
+206,Guinea-Bissau,1192.0,"28,120",Africa,2012-2016,Both sexes
+209,Guyana,2260.0,"196,850",Americas,2012-2016,Both sexes
+212,Haiti,2270.0,"27,560",Americas,2012-2016,Both sexes
+215,Honduras,2280.0,"111,890",Americas,2012-2016,Both sexes
+218,Hungary,4150.0,"89,610",Europe,2012-2016,Both sexes
+221,Iceland,4160.0,"100,250",Europe,2012-2016,Both sexes
+224,India,3100.0,"2,973,190",South-East Asia,2012-2016,Both sexes
+227,Indonesia,3110.0,"1,811,570",South-East Asia,2012-2016,Both sexes
+230,Iran (Islamic Republic of),3130.0,"1,628,550",Eastern Mediterranean,2012-2016,Both sexes
+233,Iraq,3140.0,"437,370",Eastern Mediterranean,2012-2016,Both sexes
+236,Ireland,4170.0,"68,890",Europe,2012-2016,Both sexes
+239,Israel,3150.0,"21,640",Europe,2012-2016,Both sexes
+242,Italy,4180.0,"294,140",Europe,2012-2016,Both sexes
+245,Jamaica,2290.0,"10,830",Americas,2012-2016,Both sexes
+248,Japan,3160.0,"364,500",Western Pacific,2012-2016,Both sexes
+251,Jordan,3170.0,"88,240",Eastern Mediterranean,2012-2016,Both sexes
+254,Kazakhstan,4182.0,"2,699,700",Europe,2012-2016,Both sexes
+257,Kenya,1220.0,"569,140",Africa,2012-2016,Both sexes
+260,Kiribati,5105.0,810,Western Pacific,2012-2016,Both sexes
+263,Kuwait,3190.0,"17,820",Eastern Mediterranean,2012-2016,Both sexes
+266,Kyrgyzstan,4184.0,"191,800",Europe,2012-2016,Both sexes
+269,Lao People's Democratic Republic,3200.0,"230,800",Western Pacific,2012-2016,Both sexes
+272,Latvia,4186.0,"62,196",Europe,2012-2016,Both sexes
+275,Lebanon,3210.0,"10,230",Eastern Mediterranean,2012-2016,Both sexes
+278,Lesotho,1230.0,"30,360",Africa,2012-2016,Both sexes
+281,Liberia,1240.0,"96,320",Africa,2012-2016,Both sexes
+284,Libya,1250.0,"1,759,540",Eastern Mediterranean,2012-2016,Both sexes
+287,Lithuania,4188.0,"62,675",Europe,2012-2016,Both sexes
+290,Luxembourg,4190.0,2590,Europe,2012-2016,Both sexes
+293,Madagascar,1260.0,"581,540",Africa,2012-2016,Both sexes
+296,Malawi,1270.0,"94,280",Africa,2012-2016,Both sexes
+299,Malaysia,3236.0,"328,550",Western Pacific,2012-2016,Both sexes
+302,Maldives,3255.0,300,South-East Asia,2012-2016,Both sexes
+305,Mali,1280.0,"1,220,190",Africa,2012-2016,Both sexes
+308,Malta,4200.0,320,Europe,2012-2016,Both sexes
+311,Mauritania,1290.0,"1,030,700",Africa,2012-2016,Both sexes
+314,Mauritius,1300.0,2030,Africa,2012-2016,Both sexes
+317,Mexico,2310.0,"1,943,950",Americas,2012-2016,Both sexes
+320,Micronesia (Federated States of),5108.0,700,Western Pacific,2012-2016,Both sexes
+323,Mongolia,3260.0,"1,553,560",Western Pacific,2012-2016,Both sexes
+326,Morocco,1310.0,"446,300",Eastern Mediterranean,2012-2016,Both sexes
+329,Mozambique,1320.0,"786,380",Africa,2012-2016,Both sexes
+332,Myanmar,3270.0,"653,310",South-East Asia,2012-2016,Both sexes
+335,Namibia,1325.0,"823,290",Africa,2012-2016,Both sexes
+338,Nepal,3280.0,"143,350",South-East Asia,2012-2016,Both sexes
+341,Netherlands,4210.0,"33,760",Europe,2012-2016,Both sexes
+344,New Zealand,5150.0,"263,310",Western Pacific,2012-2016,Both sexes
+347,Nicaragua,2340.0,"120,340",Americas,2012-2016,Both sexes
+350,Niger,1330.0,"1,266,700",Africa,2012-2016,Both sexes
+353,Nigeria,1340.0,"910,770",Africa,2012-2016,Both sexes
+356,Norway,4220.0,"305,470",Europe,2012-2016,Both sexes
+359,Oman,3285.0,"309,500",Eastern Mediterranean,2012-2016,Both sexes
+362,Pakistan,3290.0,"770,880",Eastern Mediterranean,2012-2016,Both sexes
+365,Panama,2350.0,"74,340",Americas,2012-2016,Both sexes
+368,Papua New Guinea,5195.0,"452,860",Western Pacific,2012-2016,Both sexes
+371,Paraguay,2360.0,"397,300",Americas,2012-2016,Both sexes
+374,Peru,2370.0,"1,280,000",Americas,2012-2016,Both sexes
+377,Philippines,3300.0,"298,170",Western Pacific,2012-2016,Both sexes
+380,Poland,4230.0,"304,220",Europe,2012-2016,Both sexes
+383,Portugal,4240.0,"91,470",Europe,2012-2016,Both sexes
+386,Qatar,3320.0,"11,610",Eastern Mediterranean,2012-2016,Both sexes
+389,Republic of Korea,3325.0,"97,030",Western Pacific,2012-2016,Both sexes
+392,Republic of Moldova,4260.0,"32,890",Europe,2012-2016,Both sexes
+395,Romania,4270.0,"229,900",Europe,2012-2016,Both sexes
+398,Russian Federation,4272.0,"16,376,870",Europe,2012-2016,Both sexes
+401,Rwanda,1370.0,"24,670",Africa,2012-2016,Both sexes
+404,Saint Lucia,2400.0,,Americas,2012-2016,Both sexes
+407,Saint Vincent and the Grenadines,2420.0,,Americas,2012-2016,Both sexes
+410,Samoa,5197.0,"2,830",Western Pacific,2012-2016,Both sexes
+413,Sao Tome and Principe,1385.0,960,Africa,2012-2016,Both sexes
+416,Saudi Arabia,3340.0,"2,149,690",Eastern Mediterranean,2012-2016,Both sexes
+419,Senegal,1390.0,"192,530",Africa,2012-2016,Both sexes
+422,Serbia,4273.0,"87,460",Europe,2012-2016,Both sexes
+425,Seychelles,1400.0,460,Africa,2012-2016,Both sexes
+428,Sierra Leone,1410.0,"71,620",Africa,2012-2016,Both sexes
+431,Singapore,3350.0,700,Western Pacific,2012-2016,Both sexes
+434,Slovakia,4274.0,"48,100",Europe,2012-2016,Both sexes
+437,Slovenia,4276.0,"20,140",Europe,2012-2016,Both sexes
+440,Solomon Islands,5198.0,"27,990",Western Pacific,2012-2016,Both sexes
+443,Somalia,1420.0,"627,340",Eastern Mediterranean,2012-2016,Both sexes
+446,South Africa,1430.0,"1,213,090",Africa,2012-2016,Both sexes
+449,Spain,4280.0,"498,800",Europe,2012-2016,Both sexes
+452,Sri Lanka,3365.0,"62,710",South-East Asia,2012-2016,Both sexes
+455,Sudan,1470.0,"2,376,000",Eastern Mediterranean,2012-2016,Both sexes
+458,Suriname,2430.0,"156,000",Americas,2012-2016,Both sexes
+461,Eswatini,1480.0,17200,Africa,2012-2016,Both sexes
+464,Sweden,4290.0,"410,340",Europe,2012-2016,Both sexes
+467,Switzerland,4300.0,"40,000",Europe,2012-2016,Both sexes
+470,Syrian Arab Republic,3370.0,"183,640",Eastern Mediterranean,2012-2016,Both sexes
+473,Tajikistan,4301.0,"139,960",Europe,2012-2016,Both sexes
+476,Thailand,3380.0,"510,890",South-East Asia,2012-2016,Both sexes
+479,Republic of North Macedonia,4195.0,"25,230",Europe,2012-2016,Both sexes
+482,Timor-Leste,3087.0,"14,870",South-East Asia,2012-2016,Both sexes
+485,Togo,1510.0,"54,390",Africa,2012-2016,Both sexes
+488,Tonga,5200.0,720,Western Pacific,2012-2016,Both sexes
+491,Trinidad and Tobago,2440.0,"5,130",Americas,2012-2016,Both sexes
+494,Tunisia,1520.0,"155,360",Eastern Mediterranean,2012-2016,Both sexes
+497,Turkey,3400.0,"769,630",Europe,2012-2016,Both sexes
+500,Turkmenistan,4302.0,"469,930",Europe,2012-2016,Both sexes
+503,Uganda,1530.0,"199,810",Africa,2012-2016,Both sexes
+506,Ukraine,4303.0,"579,320",Europe,2012-2016,Both sexes
+509,United Arab Emirates,3405.0,"83,600",Eastern Mediterranean,2012-2016,Both sexes
+512,United Kingdom of Great Britain and Northern Ireland,4308.0,"241,930",Europe,2012-2016,Both sexes
+515,United Republic of Tanzania,1546.0,"885,800",Africa,2012-2016,Both sexes
+518,United States of America,2450.0,"9,147,420",Americas,2012-2016,Both sexes
+521,Uruguay,2460.0,"175,020",Americas,2012-2016,Both sexes
+524,Uzbekistan,4335.0,"425,400",Europe,2012-2016,Both sexes
+527,Vanuatu,5207.0,"12,190",Western Pacific,2012-2016,Both sexes
+530,Venezuela (Bolivarian Republic of),2470.0,"882,050",Americas,2012-2016,Both sexes
+533,Viet Nam,3408.0,"310,070",Western Pacific,2012-2016,Both sexes
+536,Yemen,3420.0,"527,970",Eastern Mediterranean,2012-2016,Both sexes
+539,Zambia,1560.0,"743,390",Africa,2012-2016,Both sexes
+542,Zimbabwe,1570.0,"386,850",Africa,2012-2016,Both sexes
+545,Montenegro,4207.0,"13,450",Europe,2012-2016,Both sexes
+548,South Sudan,,,Africa,2012-2016,Both sexes
