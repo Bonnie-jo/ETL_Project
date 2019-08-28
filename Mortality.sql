@@ -4,7 +4,7 @@ DROP TABLE red_clean;
 
 Create Table red_clean(
 	Country VARCHAR,
-	GDP real,
+	GDP money,
 	Population numeric,
 	LifeExp numeric,
 	ChildMortality numeric, 
@@ -30,8 +30,12 @@ Create Table who_clean(
 
 SELECT * FROM who_clean;
 
-SELECT * FROM red_clean
+SELECT who_clean.year, who_clean.region, who_clean.Country, who_clean.Land_Area,
+red_clean.GDP/1000000000 as GDP_in_billions, round(red_clean.population,0) as Population, 
+who_clean.Mortality, round(red_clean.ChildMortality,2) as Child_Mortality , 
+round(red_clean.MaternalMortality,2) as Maternal_Mortality  FROM red_clean
 	JOIN who_clean
-	ON red_clean.country = who_clean.country;	
+	ON red_clean.country = who_clean.country
+	where who_clean.mortality is not null;	
 
 
